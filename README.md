@@ -4,7 +4,7 @@ This project uses the sample data provided by Snowflake to practice building dat
 Snowflake sample data [TPC-H](https://docs.snowflake.com/en/user-guide/sample-data-tpch).
 
 
-<img width="615" alt="sample-data-tpch-schema" src="https://github.com/manyuzhang1996/Data-Pipeline-with-dbt-and-Snowflake/assets/111943220/2efd3801-6eb7-4ebd-ba8a-982189d5face">
+<img width="615" alt="sample-data-tpch-schema" src="https://github.com/atharva21-stack/Data-Pipeline-DBT-Snowflake/blob/main/assets/diagram.png">
 
 ### Steps
 - Register for Snowflake account
